@@ -1,6 +1,6 @@
 # 📚✨ Proyecto Biblioteca FET ✨📚
 
-![Logo FET](https://www.fet.edu.co/images/logo.png) <!-- Puedes reemplazar esto con la ruta de tu logo -->
+![Logo FET](https://www.fet.edu.co/images/logo.png) 
 
 ## 🚀 Descripción
 
@@ -36,12 +36,12 @@ Este proyecto es propiedad de:
 
 Si tienes preguntas o necesitas información adicional sobre este proyecto:
 
+Desarrollador:
 📧 ingenieroyilmarrodriguez@gmail.com 
+
+Institución:
 🌐 [www.fet.edu.co](https://www.fet.edu.co)
 
 ---
 
-### ❤️ Gracias por apoyar el desarrollo tecnológico local y educativo.
-
----
 
